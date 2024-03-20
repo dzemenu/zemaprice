@@ -1,0 +1,1910 @@
+[
+  {
+      "no": 1,
+      "name": "samsung",
+      "model": "Galaxy S5",
+      "price": "0"
+  },
+  {
+      "no": 2,
+      "name": "samsung",
+      "model": "Galaxy S5 Mini",
+      "price": "0"
+  },
+  {
+      "no": 3,
+      "name": "samsung",
+      "model": "Galaxy S6",
+      "price": "0"
+  },
+  {
+      "no": 4,
+      "name": "samsung",
+      "model": "Galaxy S6 edge",
+      "price": "0"
+  },
+  {
+      "no": 5,
+      "name": "samsung",
+      "model": "Galaxy S7",
+      "price": "0"
+  },
+  {
+      "no": 6,
+      "name": "samsung",
+      "model": "Galaxy S7 edge",
+      "price": "0"
+  },
+  {
+      "no": 7,
+      "name": "samsung",
+      "model": "Galaxy S8",
+      "price": "0"
+  },
+  {
+      "no": 8,
+      "name": "samsung",
+      "model": "Galaxy S8+",
+      "price": "0"
+  },
+  {
+      "no": 9,
+      "name": "samsung",
+      "model": "Galaxy S9",
+      "price": "0"
+  },
+  {
+      "no": 10,
+      "name": "samsung",
+      "model": "Galaxy S9+",
+      "price": "0"
+  },
+  {
+      "no": 11,
+      "name": "samsung",
+      "model": "Galaxy S10",
+      "price": "0"
+  },
+  {
+      "no": 12,
+      "name": "samsung",
+      "model": "Galaxy S10e",
+      "price": "0"
+  },
+  {
+      "no": 13,
+      "name": "samsung",
+      "model": "Galaxy S10+",
+      "price": "0"
+  },
+  {
+      "no": 14,
+      "name": "samsung",
+      "model": "Galaxy S10 Lite",
+      "price": "0"
+  },
+  {
+      "no": 15,
+      "name": "samsung",
+      "model": "Galaxy S10 5G",
+      "price": "0"
+  },
+  {
+      "no": 16,
+      "name": "samsung",
+      "model": "Galaxy S20",
+      "price": "0"
+  },
+  {
+      "no": 17,
+      "name": "samsung",
+      "model": "Galaxy S20+",
+      "price": "0"
+  },
+  {
+      "no": 18,
+      "name": "samsung",
+      "model": "Galaxy S20 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 19,
+      "name": "samsung",
+      "model": "Galaxy S20 FE",
+      "price": "0"
+  },
+  {
+      "no": 20,
+      "name": "samsung",
+      "model": "Galaxy S21",
+      "price": "0"
+  },
+  {
+      "no": 21,
+      "name": "samsung",
+      "model": "Galaxy S21+",
+      "price": "0"
+  },
+  {
+      "no": 22,
+      "name": "samsung",
+      "model": "Galaxy S21 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 23,
+      "name": "samsung",
+      "model": "Galaxy S21 FE",
+      "price": "0"
+  },
+  {
+      "no": 24,
+      "name": "samsung",
+      "model": "Galaxy S22",
+      "price": "0"
+  },
+  {
+      "no": 25,
+      "name": "samsung",
+      "model": "Galaxy S22+",
+      "price": "0"
+  },
+  {
+      "no": 26,
+      "name": "samsung",
+      "model": "Galaxy S22 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 27,
+      "name": "samsung",
+      "model": "Galaxy Note 8",
+      "price": "0"
+  },
+  {
+      "no": 28,
+      "name": "samsung",
+      "model": "Galaxy Note 9",
+      "price": "0"
+  },
+  {
+      "no": 29,
+      "name": "samsung",
+      "model": "Galaxy Note 10",
+      "price": "0"
+  },
+  {
+      "no": 30,
+      "name": "samsung",
+      "model": "Galaxy Note 10+",
+      "price": "0"
+  },
+  {
+      "no": 31,
+      "name": "samsung",
+      "model": "Galaxy Note 10 Lite",
+      "price": "0"
+  },
+  {
+      "no": 32,
+      "name": "samsung",
+      "model": "Galaxy Note 20",
+      "price": "0"
+  },
+  {
+      "no": 33,
+      "name": "samsung",
+      "model": "Galaxy Note 20 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 34,
+      "name": "samsung",
+      "model": "Galaxy A series",
+      "price": "0"
+  },
+  {
+      "no": 35,
+      "name": "samsung",
+      "model": "Galaxy A01",
+      "price": "0"
+  },
+  {
+      "no": 36,
+      "name": "samsung",
+      "model": "Galaxy A01 Core",
+      "price": "0"
+  },
+  {
+      "no": 37,
+      "name": "samsung",
+      "model": "Galaxy A02s",
+      "price": "0"
+  },
+  {
+      "no": 38,
+      "name": "samsung",
+      "model": "Galaxy A10",
+      "price": "0"
+  },
+  {
+      "no": 39,
+      "name": "samsung",
+      "model": "Galaxy A10e",
+      "price": "0"
+  },
+  {
+      "no": 40,
+      "name": "samsung",
+      "model": "Galaxy A11",
+      "price": "0"
+  },
+  {
+      "no": 41,
+      "name": "samsung",
+      "model": "Galaxy A12",
+      "price": "0"
+  },
+  {
+      "no": 42,
+      "name": "samsung",
+      "model": "Galaxy A13",
+      "price": "0"
+  },
+  {
+      "no": 43,
+      "name": "samsung",
+      "model": "Galaxy A14 5G",
+      "price": "0"
+  },
+  {
+      "no": 44,
+      "name": "samsung",
+      "model": "Galaxy A10s",
+      "price": "0"
+  },
+  {
+      "no": 45,
+      "name": "samsung",
+      "model": "Galaxy A20",
+      "price": "0"
+  },
+  {
+      "no": 46,
+      "name": "samsung",
+      "model": "Galaxy A20e",
+      "price": "0"
+  },
+  {
+      "no": 47,
+      "name": "samsung",
+      "model": "Galaxy A20s",
+      "price": "0"
+  },
+  {
+      "no": 48,
+      "name": "samsung",
+      "model": "Galaxy A21s",
+      "price": "0"
+  },
+  {
+      "no": 49,
+      "name": "samsung",
+      "model": "Galaxy A22",
+      "price": "0"
+  },
+  {
+      "no": 50,
+      "name": "samsung",
+      "model": "Galaxy A23",
+      "price": "0"
+  },
+  {
+      "no": 51,
+      "name": "samsung",
+      "model": "Galaxy A24",
+      "price": "0"
+  },
+  {
+      "no": 52,
+      "name": "samsung",
+      "model": "Galaxy A30",
+      "price": "0"
+  },
+  {
+      "no": 53,
+      "name": "samsung",
+      "model": "Galaxy A30s",
+      "price": "0"
+  },
+  {
+      "no": 54,
+      "name": "samsung",
+      "model": "Galaxy A31",
+      "price": "0"
+  },
+  {
+      "no": 55,
+      "name": "samsung",
+      "model": "Galaxy A33",
+      "price": "0"
+  },
+  {
+      "no": 56,
+      "name": "samsung",
+      "model": "Galaxy A32 5G",
+      "price": "0"
+  },
+  {
+      "no": 57,
+      "name": "samsung",
+      "model": "Galaxy A34 5G",
+      "price": "0"
+  },
+  {
+      "no": 58,
+      "name": "samsung",
+      "model": "Galaxy A40",
+      "price": "0"
+  },
+  {
+      "no": 59,
+      "name": "samsung",
+      "model": "Galaxy A40s",
+      "price": "0"
+  },
+  {
+      "no": 60,
+      "name": "samsung",
+      "model": "Galaxy A41",
+      "price": "0"
+  },
+  {
+      "no": 61,
+      "name": "samsung",
+      "model": "Galaxy A42 5G",
+      "price": "0"
+  },
+  {
+      "no": 62,
+      "name": "samsung",
+      "model": "Galaxy A50",
+      "price": "0"
+  },
+  {
+      "no": 63,
+      "name": "samsung",
+      "model": "Galaxy A50s",
+      "price": "0"
+  },
+  {
+      "no": 64,
+      "name": "samsung",
+      "model": "Galaxy A51",
+      "price": "0"
+  },
+  {
+      "no": 65,
+      "name": "samsung",
+      "model": "Galaxy A51 5G",
+      "price": "0"
+  },
+  {
+      "no": 66,
+      "name": "samsung",
+      "model": "Galaxy A52",
+      "price": "0"
+  },
+  {
+      "no": 67,
+      "name": "samsung",
+      "model": "Galaxy A52 5G",
+      "price": "0"
+  },
+  {
+      "no": 68,
+      "name": "samsung",
+      "model": "Galaxy A52s 5G",
+      "price": "0"
+  },
+  {
+      "no": 69,
+      "name": "samsung",
+      "model": "Galaxy A53",
+      "price": "0"
+  },
+  {
+      "no": 70,
+      "name": "samsung",
+      "model": "Galaxy A54 5G",
+      "price": "0"
+  },
+  {
+      "no": 71,
+      "name": "samsung",
+      "model": "Galaxy A60",
+      "price": "0"
+  },
+  {
+      "no": 72,
+      "name": "samsung",
+      "model": "Galaxy A70",
+      "price": "0"
+  },
+  {
+      "no": 73,
+      "name": "samsung",
+      "model": "Galaxy A71",
+      "price": "0"
+  },
+  {
+      "no": 74,
+      "name": "samsung",
+      "model": "Galaxy A71 5G",
+      "price": "0"
+  },
+  {
+      "no": 75,
+      "name": "samsung",
+      "model": "Galaxy A72",
+      "price": "0"
+  },
+  {
+      "no": 76,
+      "name": "samsung",
+      "model": "Galaxy A73",
+      "price": "0"
+  },
+  {
+      "no": 77,
+      "name": "samsung",
+      "model": "Galaxy A80",
+      "price": "0"
+  },
+  {
+      "no": 78,
+      "name": "samsung",
+      "model": "Galaxy A90 5G",
+      "price": "0"
+  },
+  {
+      "no": 79,
+      "name": "samsung",
+      "model": "Galaxy M01 Core",
+      "price": "0"
+  },
+  {
+      "no": 80,
+      "name": "samsung",
+      "model": "Galaxy M01",
+      "price": "0"
+  },
+  {
+      "no": 81,
+      "name": "samsung",
+      "model": "Galaxy M01s",
+      "price": "0"
+  },
+  {
+      "no": 82,
+      "name": "samsung",
+      "model": "Galaxy M02s",
+      "price": "0"
+  },
+  {
+      "no": 83,
+      "name": "samsung",
+      "model": "Galaxy M10",
+      "price": "0"
+  },
+  {
+      "no": 84,
+      "name": "samsung",
+      "model": "Galaxy M11",
+      "price": "0"
+  },
+  {
+      "no": 85,
+      "name": "samsung",
+      "model": "Galaxy M12",
+      "price": "0"
+  },
+  {
+      "no": 86,
+      "name": "samsung",
+      "model": "Galaxy M14 5G",
+      "price": "0"
+  },
+  {
+      "no": 87,
+      "name": "samsung",
+      "model": "Galaxy M10s",
+      "price": "0"
+  },
+  {
+      "no": 88,
+      "name": "samsung",
+      "model": "Galaxy M20",
+      "price": "0"
+  },
+  {
+      "no": 89,
+      "name": "samsung",
+      "model": "Galaxy M21",
+      "price": "0"
+  },
+  {
+      "no": 90,
+      "name": "samsung",
+      "model": "Galaxy M21s",
+      "price": "0"
+  },
+  {
+      "no": 91,
+      "name": "samsung",
+      "model": "Galaxy M30",
+      "price": "0"
+  },
+  {
+      "no": 92,
+      "name": "samsung",
+      "model": "Galaxy M30s",
+      "price": "0"
+  },
+  {
+      "no": 93,
+      "name": "samsung",
+      "model": "Galaxy M31",
+      "price": "0"
+  },
+  {
+      "no": 94,
+      "name": "samsung",
+      "model": "Galaxy M32",
+      "price": "0"
+  },
+  {
+      "no": 95,
+      "name": "samsung",
+      "model": "Galaxy M40",
+      "price": "0"
+  },
+  {
+      "no": 96,
+      "name": "samsung",
+      "model": "Galaxy M42 5G",
+      "price": "0"
+  },
+  {
+      "no": 97,
+      "name": "samsung",
+      "model": "Galaxy M51",
+      "price": "0"
+  },
+  {
+      "no": 98,
+      "name": "samsung",
+      "model": "Galaxy M52 5G",
+      "price": "0"
+  },
+  {
+      "no": 99,
+      "name": "samsung",
+      "model": "Galaxy M53 5G",
+      "price": "0"
+  },
+  {
+      "no": 100,
+      "name": "samsung",
+      "model": "Galaxy F12",
+      "price": "0"
+  },
+  {
+      "no": 101,
+      "name": "samsung",
+      "model": "Galaxy F41",
+      "price": "0"
+  },
+  {
+      "no": 102,
+      "name": "samsung",
+      "model": "Galaxy F62",
+      "price": "0"
+  },
+  {
+      "no": 103,
+      "name": "samsung",
+      "model": "Galaxy Xcover 4s",
+      "price": "0"
+  },
+  {
+      "no": 104,
+      "name": "samsung",
+      "model": "Galaxy Xcover pro",
+      "price": "0"
+  },
+  {
+      "no": 105,
+      "name": "samsung",
+      "model": "Galaxy Xcover pro 6pro",
+      "price": "0"
+  },
+  {
+      "no": 106,
+      "name": "samsung",
+      "model": "Galaxy Z Flip",
+      "price": "0"
+  },
+  {
+      "no": 107,
+      "name": "samsung",
+      "model": "Galaxy Z Flip 3",
+      "price": "0"
+  },
+  {
+      "no": 108,
+      "name": "samsung",
+      "model": "Galaxy Z Flip 4",
+      "price": "0"
+  },
+  {
+      "no": 109,
+      "name": "samsung",
+      "model": "Galaxy Z Fold",
+      "price": "0"
+  },
+  {
+      "no": 110,
+      "name": "samsung",
+      "model": "Galaxy Z Fold 2",
+      "price": "0"
+  },
+  {
+      "no": 111,
+      "name": "samsung",
+      "model": "Galaxy Z Fold 3",
+      "price": "0"
+  },
+  {
+      "no": 112,
+      "name": "samsung",
+      "model": "Galaxy Z Fold 4",
+      "price": "0"
+  },
+  {
+      "no": 113,
+      "name": "samsung",
+      "model": "Galaxy Tab A with S Pen",
+      "price": "0"
+  },
+  {
+      "no": 114,
+      "name": "samsung",
+      "model": "Galaxy Tab A7",
+      "price": "0"
+  },
+  {
+      "no": 115,
+      "name": "samsung",
+      "model": "Galaxy Tab A7 Lite",
+      "price": "0"
+  },
+  {
+      "no": 116,
+      "name": "samsung",
+      "model": "Galaxy Tab S5e",
+      "price": "0"
+  },
+  {
+      "no": 117,
+      "name": "samsung",
+      "model": "Galaxy Tab S6",
+      "price": "0"
+  },
+  {
+      "no": 118,
+      "name": "samsung",
+      "model": "Galaxy Tab S6 Lite",
+      "price": "0"
+  },
+  {
+      "no": 119,
+      "name": "samsung",
+      "model": "Galaxy Tab S7",
+      "price": "0"
+  },
+  {
+      "no": 120,
+      "name": "samsung",
+      "model": "Galaxy Tab S7+",
+      "price": "0"
+  },
+  {
+      "no": 121,
+      "name": "samsung",
+      "model": "Galaxy Tab S7 FE",
+      "price": "0"
+  },
+  {
+      "no": 122,
+      "name": "samsung",
+      "model": "Galaxy Tab S8",
+      "price": "0"
+  },
+  {
+      "no": 123,
+      "name": "samsung",
+      "model": "Galaxy Tab S8+",
+      "price": "0"
+  },
+  {
+      "no": 124,
+      "name": "samsung",
+      "model": "Galaxy Tab S8 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 125,
+      "name": "samsung",
+      "model": "Galaxy Tab Active 3",
+      "price": "0"
+  },
+  {
+      "no": 1,
+      "name": "redmi",
+      "model": "redmi not 13 4G NFC",
+      "price": "0"
+  },
+  {
+      "no": 2,
+      "name": "redmi",
+      "model": "redmi not 13 4G ",
+      "price": "0"
+  },
+  {
+      "no": 3,
+      "name": "redmi",
+      "model": "redmi not 13  pro 4G ",
+      "price": "0"
+  },
+  {
+      "no": 4,
+      "name": "redmi",
+      "model": "redmi 13R",
+      "price": "0"
+  },
+  {
+      "no": 5,
+      "name": "redmi",
+      "model": "redmi 13C 5G",
+      "price": "0"
+  },
+  {
+      "no": 6,
+      "name": "redmi",
+      "model": "redmi K70 Pro",
+      "price": "0"
+  },
+  {
+      "no": 7,
+      "name": "redmi",
+      "model": "redmi K70E",
+      "price": "0"
+  },
+  {
+      "no": 8,
+      "name": "redmi",
+      "model": "redmi K70",
+      "price": "0"
+  },
+  {
+      "no": 9,
+      "name": "redmi",
+      "model": "redmi NOTE 13R pro",
+      "price": "0"
+  },
+  {
+      "no": 10,
+      "name": "redmi",
+      "model": "redmi 13c",
+      "price": "0"
+  },
+  {
+      "no": 11,
+      "name": "redmi",
+      "model": "redmi NOTE 12T pro",
+      "price": "0"
+  },
+  {
+      "no": 12,
+      "name": "redmi",
+      "model": "redmi NOTE 13 pro+",
+      "price": "0"
+  },
+  {
+      "no": 13,
+      "name": "redmi",
+      "model": "redmi NOTE 13 5G",
+      "price": "0"
+  },
+  {
+      "no": 14,
+      "name": "redmi",
+      "model": "redmi NOTE 13 PRO",
+      "price": "0"
+  },
+  {
+      "no": 15,
+      "name": "redmi",
+      "model": "redmi K60 Ultra",
+      "price": "0"
+  },
+  {
+      "no": 16,
+      "name": "redmi",
+      "model": "redmi pad se",
+      "price": "0"
+  },
+  {
+      "no": 17,
+      "name": "redmi",
+      "model": "redmi 12 5g",
+      "price": "0"
+  },
+  {
+      "no": 18,
+      "name": "redmi",
+      "model": "redmi  not 12r ",
+      "price": "0"
+  },
+  {
+      "no": 19,
+      "name": "redmi",
+      "model": "redmi 12",
+      "price": "0"
+  },
+  {
+      "no": 20,
+      "name": "redmi",
+      "model": "redmi note 12r pro",
+      "price": "0"
+  },
+  {
+      "no": 21,
+      "name": "redmi",
+      "model": "redmi note 12turbo",
+      "price": "0"
+  },
+  {
+      "no": 22,
+      "name": "redmi",
+      "model": "redmi note 12 por 4g",
+      "price": "0"
+  },
+  {
+      "no": 23,
+      "name": "redmi",
+      "model": "redmi note 12 4g",
+      "price": "0"
+  },
+  {
+      "no": 24,
+      "name": "redmi",
+      "model": "redmi note 12nfc 4g",
+      "price": "0"
+  },
+  {
+      "no": 25,
+      "name": "redmi",
+      "model": "redmi note 12s",
+      "price": "0"
+  },
+  {
+      "no": 26,
+      "name": "redmi",
+      "model": "redmi a2+",
+      "price": "0"
+  },
+  {
+      "no": 27,
+      "name": "redmi",
+      "model": "redmi a2",
+      "price": "0"
+  },
+  {
+      "no": 28,
+      "name": "redmi",
+      "model": "redmi 12c",
+      "price": "0"
+  },
+  {
+      "no": 29,
+      "name": "redmi",
+      "model": "redmi note 12 pro speed edition",
+      "price": "0"
+  },
+  {
+      "no": 30,
+      "name": "redmi",
+      "model": "redmi k60 ",
+      "price": "0"
+  },
+  {
+      "no": 31,
+      "name": "redmi",
+      "model": "redmi k60e",
+      "price": "0"
+  },
+  {
+      "no": 32,
+      "name": "redmi",
+      "model": "redmi k60 por",
+      "price": "0"
+  },
+  {
+      "no": 33,
+      "name": "redmi",
+      "model": "redmi note 12 pro+",
+      "price": "0"
+  },
+  {
+      "no": 34,
+      "name": "redmi",
+      "model": "redmi note 12",
+      "price": "0"
+  },
+  {
+      "no": 35,
+      "name": "redmi",
+      "model": "redmi note 12 explorer",
+      "price": "0"
+  },
+  {
+      "no": 36,
+      "name": "redmi",
+      "model": "redmi note 12 pro",
+      "price": "0"
+  },
+  {
+      "no": 37,
+      "name": "redmi",
+      "model": "redmi note 11r",
+      "price": "0"
+  },
+  {
+      "no": 38,
+      "name": "redmi",
+      "model": "redmi 11 prime 5g",
+      "price": "0"
+  },
+  {
+      "no": 39,
+      "name": "redmi",
+      "model": "redmi 11 prime",
+      "price": "0"
+  },
+  {
+      "no": 40,
+      "name": "redmi",
+      "model": "redmi a1+",
+      "price": "0"
+  },
+  {
+      "no": 41,
+      "name": "redmi",
+      "model": "poco c50",
+      "price": "0"
+  },
+  {
+      "no": 42,
+      "name": "redmi",
+      "model": "redmi a1+",
+      "price": "0"
+  },
+  {
+      "no": 43,
+      "name": "redmi",
+      "model": "redmi note 11 se india",
+      "price": "0"
+  },
+  {
+      "no": 44,
+      "name": "redmi",
+      "model": "redmi k50 ulter",
+      "price": "0"
+  },
+  {
+      "no": 45,
+      "name": "redmi",
+      "model": "redmi k50i pro",
+      "price": "0"
+  },
+  {
+      "no": 46,
+      "name": "redmi",
+      "model": "redmi k50i",
+      "price": "0"
+  },
+  {
+      "no": 47,
+      "name": "redmi",
+      "model": "redmi note 11t pro+",
+      "price": "0"
+  },
+  {
+      "no": 48,
+      "name": "redmi",
+      "model": "redmi note 11t pro",
+      "price": "0"
+  },
+  {
+      "no": 49,
+      "name": "redmi",
+      "model": "redmi note 11 se india",
+      "price": "0"
+  },
+  {
+      "no": 50,
+      "name": "redmi",
+      "model": "redmi 10 prime 2022",
+      "price": "0"
+  },
+  {
+      "no": 51,
+      "name": "redmi",
+      "model": "redmi 10 power ",
+      "price": "0"
+  },
+  {
+      "no": 52,
+      "name": "redmi",
+      "model": "redmi note 10t ",
+      "price": "0"
+  },
+  {
+      "no": 53,
+      "name": "redmi",
+      "model": "redmi 10a",
+      "price": "0"
+  },
+  {
+      "no": 54,
+      "name": "redmi",
+      "model": "redmi note 11s 5g",
+      "price": "0"
+  },
+  {
+      "no": 55,
+      "name": "redmi",
+      "model": "redmi note 10prime+ 5g",
+      "price": "0"
+  },
+  {
+      "no": 56,
+      "name": "redmi",
+      "model": "redmi 105g",
+      "price": "0"
+  },
+  {
+      "no": 57,
+      "name": "redmi",
+      "model": "redmi 10",
+      "price": "0"
+  },
+  {
+      "no": 58,
+      "name": "redmi",
+      "model": "redmi k50 pro",
+      "price": "0"
+  },
+  {
+      "no": 59,
+      "name": "redmi",
+      "model": "redmi k50 ",
+      "price": "0"
+  },
+  {
+      "no": 60,
+      "name": "redmi",
+      "model": "redmi k40s",
+      "price": "0"
+  },
+  {
+      "no": 61,
+      "name": "redmi",
+      "model": "redmi 10c",
+      "price": "0"
+  },
+  {
+      "no": 62,
+      "name": "redmi",
+      "model": "redmi note 11 pro+ 5g",
+      "price": "0"
+  },
+  {
+      "no": 63,
+      "name": "redmi",
+      "model": "redmi note 11e pro",
+      "price": "0"
+  },
+  {
+      "no": 64,
+      "name": "redmi",
+      "model": "redmi note 11e",
+      "price": "0"
+  },
+  {
+      "no": 65,
+      "name": "redmi",
+      "model": "redmi k50 ",
+      "price": "0"
+  },
+  {
+      "no": 66,
+      "name": "redmi",
+      "model": "redmi 10 2022",
+      "price": "0"
+  },
+  {
+      "no": 67,
+      "name": "redmi",
+      "model": "redmi note 11 pro 4g",
+      "price": "0"
+  },
+  {
+      "no": 68,
+      "name": "redmi",
+      "model": "redmi note 11",
+      "price": "0"
+  },
+  {
+      "no": 69,
+      "name": "redmi",
+      "model": "redmi note 11s",
+      "price": "0"
+  },
+  {
+      "no": 70,
+      "name": "redmi",
+      "model": "xiaomi redmi note 11 pro 5g",
+      "price": "0"
+  },
+  {
+      "no": 71,
+      "name": "redmi",
+      "model": "xiaomi redmiT 5G",
+      "price": "0"
+  },
+  {
+      "no": 72,
+      "name": "redmi",
+      "model": "xiaomi redmi  11 4G",
+      "price": "0"
+  },
+  {
+      "no": 73,
+      "name": "redmi",
+      "model": "xiaomi redmi 11 pro +",
+      "price": "0"
+  },
+  {
+      "no": 74,
+      "name": "redmi",
+      "model": "xiaomi redmi 11 pro ",
+      "price": "0"
+  },
+  {
+      "no": 75,
+      "name": "redmi",
+      "model": "xiaomi redmi note11",
+      "price": "0"
+  },
+  {
+      "no": 76,
+      "name": "redmi",
+      "model": "xiaomi redmi note10 lite",
+      "price": "0"
+  },
+  {
+      "no": 77,
+      "name": "redmi",
+      "model": "xiaomi redmi note 9A sport",
+      "price": "0"
+  },
+  {
+      "no": 78,
+      "name": "redmi",
+      "model": "xiaomi redmi  9 activ",
+      "price": "0"
+  },
+  {
+      "no": 79,
+      "name": "redmi",
+      "model": "xiaomi  note 10 JE",
+      "price": "0"
+  },
+  {
+      "no": 80,
+      "name": "redmi",
+      "model": "xiaomi  redmi 10",
+      "price": "0"
+  },
+  {
+      "no": 81,
+      "name": "redmi",
+      "model": "xiaomi  redmi 10 prime",
+      "price": "0"
+  },
+  {
+      "no": 82,
+      "name": "redmi",
+      "model": "xiaomi  redmi  note 10T 5G",
+      "price": "0"
+  },
+  {
+      "no": 83,
+      "name": "redmi",
+      "model": "xiaomi  redmi  K 40  gaming",
+      "price": "0"
+  },
+  {
+      "no": 84,
+      "name": "redmi",
+      "model": "xiaomi  note 8 2021 ",
+      "price": "0"
+  },
+  {
+      "no": 85,
+      "name": "redmi",
+      "model": "xiaomi  note 10 pro ",
+      "price": "0"
+  },
+  {
+      "no": 86,
+      "name": "redmi",
+      "model": "xiaomi  note 10S",
+      "price": "0"
+  },
+  {
+      "no": 87,
+      "name": "redmi",
+      "model": "xiaomi  note 10",
+      "price": "0"
+  },
+  {
+      "no": 88,
+      "name": "redmi",
+      "model": "xiaomi  note 11",
+      "price": "0"
+  },
+  {
+      "no": 1,
+      "name": "iphone",
+      "model": "iPhone 14 Pro Max",
+      "price": "0"
+  },
+  {
+      "no": 2,
+      "name": "iphone",
+      "model": "iPhone 14 Pro",
+      "price": "0"
+  },
+  {
+      "no": 3,
+      "name": "iphone",
+      "model": "iPhone 14 Plus",
+      "price": "0"
+  },
+  {
+      "no": 4,
+      "name": "iphone",
+      "model": "iPhone 14",
+      "price": "0"
+  },
+  {
+      "no": 5,
+      "name": "iphone",
+      "model": "iPhone SE 3",
+      "price": "0"
+  },
+  {
+      "no": 6,
+      "name": "iphone",
+      "model": "iPhone 13 Pro Max",
+      "price": "0"
+  },
+  {
+      "no": 7,
+      "name": "iphone",
+      "model": "iPhone 13 Pro",
+      "price": "0"
+  },
+  {
+      "no": 8,
+      "name": "iphone",
+      "model": "iPhone 13 Mini",
+      "price": "0"
+  },
+  {
+      "no": 9,
+      "name": "iphone",
+      "model": "iPhone 13",
+      "price": "0"
+  },
+  {
+      "no": 10,
+      "name": "iphone",
+      "model": "iPhone 12 Pro Max",
+      "price": "0"
+  },
+  {
+      "no": 11,
+      "name": "iphone",
+      "model": "iPhone 12 Pro",
+      "price": "0"
+  },
+  {
+      "no": 12,
+      "name": "iphone",
+      "model": "iPhone 12 Mini",
+      "price": "0"
+  },
+  {
+      "no": 13,
+      "name": "iphone",
+      "model": "iPhone 12",
+      "price": "0"
+  },
+  {
+      "no": 14,
+      "name": "iphone",
+      "model": "iPhone SE 2",
+      "price": "0"
+  },
+  {
+      "no": 15,
+      "name": "iphone",
+      "model": "iPhone 11 Pro Max",
+      "price": "0"
+  },
+  {
+      "no": 16,
+      "name": "iphone",
+      "model": "iPhone 11 Pro",
+      "price": "0"
+  },
+  {
+      "no": 17,
+      "name": "iphone",
+      "model": "iPhone 11",
+      "price": "0"
+  },
+  {
+      "no": 18,
+      "name": "iphone",
+      "model": "iPhone XR",
+      "price": "0"
+  },
+  {
+      "no": 19,
+      "name": "iphone",
+      "model": "iPhone XS Max",
+      "price": "0"
+  },
+  {
+      "no": 20,
+      "name": "iphone",
+      "model": "iPhone XS",
+      "price": "0"
+  },
+  {
+      "no": 21,
+      "name": "iphone",
+      "model": "iPhone X",
+      "price": "0"
+  },
+  {
+      "no": 22,
+      "name": "iphone",
+      "model": "iPhone 8 Plus",
+      "price": "0"
+  },
+  {
+      "no": 23,
+      "name": "iphone",
+      "model": "iPhone 8",
+      "price": "0"
+  },
+  {
+      "no": 24,
+      "name": "iphone",
+      "model": "iPhone 7 Plus",
+      "price": "0"
+  },
+  {
+      "no": 25,
+      "name": "iphone",
+      "model": "iPhone 7",
+      "price": "0"
+  },
+  {
+      "no": 26,
+      "name": "iphone",
+      "model": "iPhone SE 1",
+      "price": "0"
+  },
+  {
+      "no": 27,
+      "name": "iphone",
+      "model": "iPhone 6s",
+      "price": "0"
+  },
+  {
+      "no": 28,
+      "name": "iphone",
+      "model": "iPhone 6 Plus",
+      "price": "0"
+  },
+  {
+      "no": 29,
+      "name": "iphone",
+      "model": "iPhone 6",
+      "price": "0"
+  },
+  {
+      "no": 30,
+      "name": "iphone",
+      "model": "iPhone 5C",
+      "price": "0"
+  },
+  {
+      "no": 31,
+      "name": "iphone",
+      "model": "iPhone 5S",
+      "price": "0"
+  },
+  {
+      "no": 32,
+      "name": "iphone",
+      "model": "iPhone 5",
+      "price": "0"
+  },
+  {
+      "no": 33,
+      "name": "iphone",
+      "model": "iPhone 4S",
+      "price": "0"
+  },
+  {
+      "no": 34,
+      "name": "iphone",
+      "model": "iPhone 4",
+      "price": "0"
+  },
+  {
+      "no": 35,
+      "name": "iphone",
+      "model": "iPhone 3GS",
+      "price": "0"
+  },
+  {
+      "no": 36,
+      "name": "iphone",
+      "model": "iPhone 3G",
+      "price": "0"
+  },
+  {
+      "no": 37,
+      "name": "iphone",
+      "model": "iPhone 2G",
+      "price": "0"
+  },
+  {
+      "no": 1,
+      "name": "tecno",
+      "model": "pova 6 pro 5G",
+      "price": "0"
+  },
+  {
+      "no": 2,
+      "name": "tecno",
+      "model": "SPARK 20 Pro+",
+      "price": "0"
+  },
+  {
+      "no": 3,
+      "name": "tecno",
+      "model": "SPARK 20 Pro",
+      "price": "0"
+  },
+  {
+      "no": 4,
+      "name": "tecno",
+      "model": "SPARK 20 ",
+      "price": "0"
+  },
+  {
+      "no": 5,
+      "name": "tecno",
+      "model": "SPARK 20C",
+      "price": "0"
+  },
+  {
+      "no": 6,
+      "name": "tecno",
+      "model": "POP 8",
+      "price": "0"
+  },
+  {
+      "no": 7,
+      "name": "tecno",
+      "model": "PHANTOM V FLIP 5G",
+      "price": "0"
+  },
+  {
+      "no": 8,
+      "name": "tecno",
+      "model": "PHANTOM V FOLD",
+      "price": "0"
+  },
+  {
+      "no": 9,
+      "name": "tecno",
+      "model": "PHANTOM X2 Pro 5G",
+      "price": "0"
+  },
+  {
+      "no": 10,
+      "name": "tecno",
+      "model": "PHANTOM X2 5G",
+      "price": "0"
+  },
+  {
+      "no": 11,
+      "name": "tecno",
+      "model": "PHANTOM X",
+      "price": "0"
+  },
+  {
+      "no": 12,
+      "name": "tecno",
+      "model": "CAMON 20 MR Doodle Edition",
+      "price": "0"
+  },
+  {
+      "no": 13,
+      "name": "tecno",
+      "model": "CAMON 20 premier 5G",
+      "price": "0"
+  },
+  {
+      "no": 14,
+      "name": "tecno",
+      "model": "CAMON 20 Pro 5G",
+      "price": "0"
+  },
+  {
+      "no": 15,
+      "name": "tecno",
+      "model": "CAMON 20 Pro ",
+      "price": "0"
+  },
+  {
+      "no": 16,
+      "name": "tecno",
+      "model": "CAMON 20 ",
+      "price": "0"
+  },
+  {
+      "no": 17,
+      "name": "tecno",
+      "model": "CAMON 19 Pro MONDEIAN",
+      "price": "0"
+  },
+  {
+      "no": 18,
+      "name": "tecno",
+      "model": "CAMON 19 Pro",
+      "price": "0"
+  },
+  {
+      "no": 19,
+      "name": "tecno",
+      "model": "CAMON 19 Pro 5G",
+      "price": "0"
+  },
+  {
+      "no": 20,
+      "name": "tecno",
+      "model": "CAMON 19 Neo",
+      "price": "0"
+  },
+  {
+      "no": 21,
+      "name": "tecno",
+      "model": "CAMON 19 ",
+      "price": "0"
+  },
+  {
+      "no": 22,
+      "name": "tecno",
+      "model": "CAMON 18 Premier",
+      "price": "0"
+  },
+  {
+      "no": 23,
+      "name": "tecno",
+      "model": "CAMON 18P",
+      "price": "0"
+  },
+  {
+      "no": 24,
+      "name": "tecno",
+      "model": "CAMON 18",
+      "price": "0"
+  },
+  {
+      "no": 25,
+      "name": "tecno",
+      "model": "CAMON 17 pro",
+      "price": "0"
+  },
+  {
+      "no": 26,
+      "name": "tecno",
+      "model": "CAMON 17p",
+      "price": "0"
+  },
+  {
+      "no": 27,
+      "name": "tecno",
+      "model": "CAMON 17",
+      "price": "0"
+  },
+  {
+      "no": 28,
+      "name": "tecno",
+      "model": "CAMON 16 Premier",
+      "price": "0"
+  },
+  {
+      "no": 29,
+      "name": "tecno",
+      "model": "CAMON 16 Pro",
+      "price": "0"
+  },
+  {
+      "no": 30,
+      "name": "tecno",
+      "model": "CAMON 16 ",
+      "price": "0"
+  },
+  {
+      "no": 31,
+      "name": "tecno",
+      "model": "spark 20 pro+",
+      "price": "0"
+  },
+  {
+      "no": 32,
+      "name": "tecno",
+      "model": "spark 20 pro",
+      "price": "0"
+  },
+  {
+      "no": 33,
+      "name": "tecno",
+      "model": "spark 20",
+      "price": "0"
+  },
+  {
+      "no": 34,
+      "name": "tecno",
+      "model": "spark 20c",
+      "price": "0"
+  },
+  {
+      "no": 35,
+      "name": "tecno",
+      "model": "spark 10 5G",
+      "price": "0"
+  },
+  {
+      "no": 36,
+      "name": "tecno",
+      "model": "spark 10C",
+      "price": "0"
+  },
+  {
+      "no": 37,
+      "name": "tecno",
+      "model": "spark 10",
+      "price": "0"
+  },
+  {
+      "no": 38,
+      "name": "tecno",
+      "model": "spark 10 Pro",
+      "price": "0"
+  },
+  {
+      "no": 39,
+      "name": "tecno",
+      "model": "spark GO 2023",
+      "price": "0"
+  },
+  {
+      "no": 40,
+      "name": "tecno",
+      "model": "spark 9",
+      "price": "0"
+  },
+  {
+      "no": 41,
+      "name": "tecno",
+      "model": "spark 9T",
+      "price": "0"
+  },
+  {
+      "no": 42,
+      "name": "tecno",
+      "model": "spark 9 pro",
+      "price": "0"
+  },
+  {
+      "no": 43,
+      "name": "tecno",
+      "model": "spark 8c",
+      "price": "0"
+  },
+  {
+      "no": 44,
+      "name": "tecno",
+      "model": "spark 8T",
+      "price": "0"
+  },
+  {
+      "no": 45,
+      "name": "tecno",
+      "model": "spark 8P",
+      "price": "0"
+  },
+  {
+      "no": 46,
+      "name": "tecno",
+      "model": "spark 8",
+      "price": "0"
+  },
+  {
+      "no": 47,
+      "name": "tecno",
+      "model": "spark 7pro",
+      "price": "0"
+  },
+  {
+      "no": 48,
+      "name": "tecno",
+      "model": "spark 7p",
+      "price": "0"
+  },
+  {
+      "no": 49,
+      "name": "tecno",
+      "model": "spark 7",
+      "price": "0"
+  },
+  {
+      "no": 50,
+      "name": "tecno",
+      "model": "spark 6",
+      "price": "0"
+  },
+  {
+      "no": 51,
+      "name": "tecno",
+      "model": "pova 5 pro 5G",
+      "price": "0"
+  },
+  {
+      "no": 52,
+      "name": "tecno",
+      "model": "pova neo 3",
+      "price": "0"
+  },
+  {
+      "no": 53,
+      "name": "tecno",
+      "model": "pova 5",
+      "price": "0"
+  },
+  {
+      "no": 54,
+      "name": "tecno",
+      "model": "pova 5 x free fire",
+      "price": "0"
+  },
+  {
+      "no": 55,
+      "name": "tecno",
+      "model": "pova 4 pro",
+      "price": "0"
+  },
+  {
+      "no": 56,
+      "name": "tecno",
+      "model": "pove 4",
+      "price": "0"
+  },
+  {
+      "no": 57,
+      "name": "tecno",
+      "model": "pove neo 2",
+      "price": "0"
+  },
+  {
+      "no": 58,
+      "name": "tecno",
+      "model": "pove 3",
+      "price": "0"
+  },
+  {
+      "no": 59,
+      "name": "tecno",
+      "model": "pove 5g",
+      "price": "0"
+  },
+  {
+      "no": 60,
+      "name": "tecno",
+      "model": "poveA",
+      "price": "0"
+  },
+  {
+      "no": 61,
+      "name": "tecno",
+      "model": "POP 8",
+      "price": "0"
+  },
+  {
+      "no": 62,
+      "name": "tecno",
+      "model": "POP 7",
+      "price": "0"
+  },
+  {
+      "no": 63,
+      "name": "tecno",
+      "model": "pop 7 pro",
+      "price": "0"
+  },
+  {
+      "no": 64,
+      "name": "tecno",
+      "model": "pop 6 pro",
+      "price": "0"
+  },
+  {
+      "no": 65,
+      "name": "tecno",
+      "model": "pop 6",
+      "price": "0"
+  },
+  {
+      "no": 66,
+      "name": "tecno",
+      "model": "pop 5 pro",
+      "price": "0"
+  },
+  {
+      "no": 67,
+      "name": "tecno",
+      "model": "pop 5 lte",
+      "price": "0"
+  },
+  {
+      "no": 68,
+      "name": "tecno",
+      "model": "pop 2f",
+      "price": "0"
+  }
+]
